@@ -1,16 +1,40 @@
-### Hi there 👋
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+### Hi there 👋, my name is Fardin Ehsan Ahmed
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FARDIN98) 
 
-<!--
-**FARDIN98/FARDIN98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </p>
+<p><br/></p>
 
-Here are some ideas to get you started:
+<h3 align="left">- 🔭 I’m available in these platforms:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left">
+<a href="https://github.com/FARDIN98" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/FARDIN98/FARDIN98/blob/main/Logos/github.png" alt="github" width="40" height="40"/> </a>
+ <a href="https://www.linkedin.com/in/tranas18/" target="_blank"> <img src="https://github.com/FARDIN98/FARDIN98/blob/main/Logos/linkedin.svg" alt="linkedin" width="40" height="40"/> </a>
+<a href="https://twitter.com/tranasreal" target="_blank"> <img src="https://github.com/FARDIN98/FARDIN98/blob/main/Logos/twitter.svg" alt="twitter" width="40" height="40"/> </a>
+<a href="https://stackoverflow.com/story/FARDIN98" target="_blank"> <img src="https://github.com/FARDIN98/FARDIN98/blob/main/Logos/stackoverflow.png" alt="stackoverflow" width="40" height="40"/> </a>
+ <a href="https://codeforces.com/profile/FARDIN98" target="_blank"> <img src="https://github.com/FARDIN98/FARDIN98/blob/main/Logos/Codeforces.svg" alt="codeforces" width="40" height="40"/> </a>
+<a href="https://www.codechef.com/users/FARDIN98" target="_blank"> <img src="https://github.com/FARDIN98/FARDIN98/blob/main/Logos/codechef.png" alt="codechef" width="50" height="50"/> </a>
+ <a href="https://www.hackerrank.com/FARDIN98" target="_blank"> <img src="https://github.com/FARDIN98/FARDIN98/blob/main/Logos/hackerrank.svg" alt="hackerrank" width="40" height="40"/> </a> 
+<a href="https://medium.com/@FARDIN98" target="_blank"> <img src="https://github.com/FARDIN98/FARDIN98/blob/main/Logos/medium.svg" alt="medium" width="40" height="40"/> </a></p>
+<p><br/></p>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FARDIN98)](https://github.com/anuraghazra/github-readme-stats)
+<p><br/></p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FARDIN98&show_icons=true)  
+<p><br/></p>
+ 
+
+![GitHub metrics](https://metrics.lecoq.io/FARDIN98)  
+<p><br/></p>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FARDIN98) 
+<p><br/></p>
+
+![Profile views](https://gpvc.arturio.dev/FARDIN98)
+<p><br/></p>
+
