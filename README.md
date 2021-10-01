@@ -16,6 +16,8 @@ hi, i'm [Fardin Ahmed](https://fardin98.github.io/portfolio-responsive-complete/
 
 - 💬 ask me about anything, i am happy to help;
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 **languages and tools:**  
 
 <code><img height="20" src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png"></code>
