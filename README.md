@@ -53,7 +53,7 @@ C++            54 mins         █████▒░░░░░░░░░░�
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FARDIN98&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
   <!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/09MAc1b"><img height="400" width="400" src="https://i.imgur.com/09MAc1b.jpg"></a>
+  <p align="center"><a href="https://imgur.com/r/ProgrammerHumor/09MAc1b"><img height="400" width="400" src="https://i.imgur.com/09MAc1b.jpg"></a></p>
 <!-- programmer_humor_img ends -->
 
 
