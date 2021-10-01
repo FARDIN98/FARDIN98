@@ -2,8 +2,8 @@
 <a href="https://www.facebook.com/fardin.ahmed.54943/">
   <img align="left" alt="Fardin's Profile" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Facebook_F_icon.svg/512px-Facebook_F_icon.svg.png" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Fardin Ahmed| Medium" width="22px" src="https://iconape.com/wp-content/files/wi/374518/png/374518.png" />
+<a href="https://fardinahmed66.medium.com/">
+  <img align="left" alt="Fardin Ahmed| Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
 </a>
 <a href="https://www.linkedin.com/in/fardin-ahmed/">
   <img align="left" alt="Fardin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -25,9 +25,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -38,9 +38,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JSX          2 hrs 23 mins   ██████████████░░░░░░░░░░░   56.33 % 
+React          2 hrs 23 mins   ██████████████░░░░░░░░░░░   56.33 % 
 JavaScript   56 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.26 % 
-TypeScript   54 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.20 % 
+C++   54 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.20 % 
 ```
 <!--END_SECTION:waka-->
 
