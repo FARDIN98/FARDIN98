@@ -19,6 +19,8 @@ hi, i'm [Fardin Ahmed](https://fardin98.github.io/portfolio-responsive-complete/
 **languages and tools:**  
 
 <code><img height="20" src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png"></code>
+<code><img height="20" src="https://cdn.pngsumo.com/css-3-logo-png-picture-364523-css-3-logo-png-css-logo-png-1600_1600.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
