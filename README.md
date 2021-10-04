@@ -12,7 +12,7 @@
 
 <br />
 
-hi, i'm [Fardin Ahmed](https://fardin98.github.io/portfolio-responsive-complete/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Fardin Ahmed](https://fardin98.github.io/portfolio-responsive-complete/), a passionate self-taught Front-end developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 - 💬 ask me about anything, i am happy to help;
 
