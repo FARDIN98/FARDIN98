@@ -5,9 +5,9 @@
 <a href="https://fardinahmed66.medium.com/">
   <img align="left" alt="Fardin Ahmed| Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
 </a>
-<a href="https://www.linkedin.com/in/fardin-ahmed/">
+<!-- <a href="https://www.linkedin.com/in/fardin-ahmed/">
   <img align="left" alt="Fardin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> -->
 
 
 <br />
