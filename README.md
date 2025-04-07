@@ -1,4 +1,4 @@
-### hey there, 
+<img src="https://i.ibb.co.com/chqKjdqv/download.png" /> 
 <a href="https://www.facebook.com/fardin.ahmed.54943/">
   <img align="left" alt="Fardin's Profile" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Facebook_F_icon.svg/512px-Facebook_F_icon.svg.png" />
 </a>
@@ -12,7 +12,7 @@
 
 <br />
 
-hi, i'm [Fardin Ahmed](https://fardin98.github.io/portfolio-responsive-complete/), a passionate self-taught Front-end developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Fardin Ahmed](https://fardin98.github.io/portfolio-responsive-complete/), a passionate self-taught Front-end developer from Bangladesh. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 - 💬 ask me about anything, i am happy to help;
 
