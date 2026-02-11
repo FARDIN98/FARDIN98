@@ -1,63 +1,111 @@
-<img src="https://i.ibb.co.com/chqKjdqv/download.png" /> 
-<a href="https://www.facebook.com/fardin.ahmed.54943/">
-  <img align="left" alt="Fardin's Profile" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Facebook_F_icon.svg/512px-Facebook_F_icon.svg.png" />
-</a>
-<a href="https://fardinahmed66.medium.com/">
-  <img align="left" alt="Fardin Ahmed| Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
-</a>
-<!-- <a href="https://www.linkedin.com/in/fardin-ahmed/">
-  <img align="left" alt="Fardin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
+<h1 align="center">
+  Hey there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40"/> I'm Fardin Ahamad
+</h1>
+
+<p align="center">
+  👨‍💻 Software Engineer | 🚀 DevOps | Testing | System Design
+</p>
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW84ejR3YXAweTRlN3R4NXl2cjFpY2tsZ2g3cW1veWQwY2VxdGFpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400" alt="Coding Gif"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFhZmF2MHA2ajQwY2FkaG16Y21kbHowaHFrd2w3NmNqd2MzaTN3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="400" alt="Funny Code Gif"/>
+</div>
+
+---
+<div align="center">
+<p align="center">
+  🏆 GitHub Stats
+</p>
+
+  ![Fardin Ahamad's GitHub Stats](https://streak-stats.demolab.com?user=FARDIN98&theme=dark&hide_border=true&short_numbers=true&mode=weekly)
+</div>
+
+---
+
+### 🛠 Technologies & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="40" height="40" alt="Webpack"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express"/>
+  <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40" alt="NestJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="Google Cloud"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/>
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" height="40" alt="Supabase"/>
+</p>
+
+---
+
+### 👨🏻‍💻 About Me
+
+- 🔭 Web & App developer passionate about crafting beautiful, scalable applications
+- 🌐 Exploring **DevOps**, **Supabase**, **Cloud Deployments**
+- 💼 **Software Engineer** at **Norton-Gauss**, **Munchies**, **Stealth Intelligence**
+- 🧠 Believer in **"learning by building"** — break stuff, fix stuff, learn fast!
+- 🧩 Enjoy tech meetups, hackathons & turning ideas into fun projects
+- 💬 Life Motto: _"Explore 🔥 and Explode 💣 with knowledge"_
+
+---
+### 🌟 Recent Projects
+
+**[krishoker_ponno](https://github.com/siddik-official/krishoker_ponno_backend)**  
+***Krishoker Ponno*** connecting local farmers and buyers.  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)  
+⭐ Starred
+
+**[api_testing_tool](https://github.com/siddik-official/api_testing_tool)**  
+A mini-Postman style API Endpoint testing tool.  
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)  
+⭐ Starred
 
 
-<br />
+**[symptoseek-iot-device](https://github.com/siddik-official/symptoseek-iot-device)**  
+Fall detection & health monitoring IoT with ESP32-S3.  
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white)  
+⭐ Starred
 
-hi, i'm [Fardin Ahmed](https://fardin98.github.io/portfolio-responsive-complete/), a passionate self-taught Front-end developer from Bangladesh. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+**[flash-home-service](https://github.com/siddik-official/flash-home-service)**  
+Platform connecting customers with home service pros.  
+![PHP](https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white)  
+⭐ Starred
 
-- 💬 ask me about anything, i am happy to help;
+**[autonomous_drone](https://github.com/siddik-official/autonomous_drone)**  
+Autonomous drone config/code with ESP32-S3 & STM32 Blue Pill.  
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white)  
+⭐ Starred
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+**[symptoseek_backend](https://github.com/siddik-official/symptoseek_backend)**  
+Backend for "symptoseek" project: AI chatbot recommends doctors.  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)  
+⭐ Starred
 
-**languages and tools:**  
+---
 
-<code><img height="20" src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> -->
+### 🌐 Let’s Connect & Create
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-React          2 hrs 23 mins   ██████████████░░░░░░░░░░░   60.33 % 
-JavaScript     56 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.26 % 
-C++            54 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.20 % 
-```
-<!--END_SECTION:waka-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/msddik/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/abubakarsid1999" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="https://www.facebook.com/abubakar.sid2/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_abu_bakar_siddik/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
+---
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,943 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FARDIN98&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-  <!-- programmer_humor_img starts -->
-  <p align="center"><a href="https://imgur.com/r/ProgrammerHumor/09MAc1b"><img height="400" width="400" src="https://i.imgur.com/09MAc1b.jpg"></a></p>
-<!-- programmer_humor_img ends -->
-
-
-
+<p align="center">
+  🧠 <i>Let’s build something epic together!</i> 🚀<br>
+  ⭐ Star this profile if you like my vibe
+</p>
