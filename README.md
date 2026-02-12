@@ -60,12 +60,12 @@
 **[ai-mock-interview](https://github.com/FARDIN98/ai-mock-interview)**  
 AI mock interview website designed to prepare you for the real world interview.  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)  
-⭐ Public
+⭐ Public | [Live Demo](https://ai-mock-interview-pied-five.vercel.app)
 
 **[converso](https://github.com/FARDIN98/converso)**  
 AI Powered LMS SAAS app with robust feature.  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)  
-⭐ Public
+⭐ Public | [Live Demo](https://converso-pearl.vercel.app)
 
 **[resumind](https://github.com/FARDIN98/resumind)**  
 Resume builder application with modern UI.  
