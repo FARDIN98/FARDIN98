@@ -55,52 +55,31 @@
 - 💬 Life Motto: _"Explore 🔥 and Explode 💣 with knowledge"_
 
 ---
-### 🌟 Recent Projects
+### 🌟 Featured Projects
 
-**[krishoker_ponno](https://github.com/siddik-official/krishoker_ponno_backend)**  
-***Krishoker Ponno*** connecting local farmers and buyers.  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)  
-⭐ Starred
-
-**[api_testing_tool](https://github.com/siddik-official/api_testing_tool)**  
-A mini-Postman style API Endpoint testing tool.  
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)  
-⭐ Starred
-
-
-**[symptoseek-iot-device](https://github.com/siddik-official/symptoseek-iot-device)**  
-Fall detection & health monitoring IoT with ESP32-S3.  
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white)  
-⭐ Starred
-
-**[flash-home-service](https://github.com/siddik-official/flash-home-service)**  
-Platform connecting customers with home service pros.  
-![PHP](https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white)  
-⭐ Starred
-
-**[autonomous_drone](https://github.com/siddik-official/autonomous_drone)**  
-Autonomous drone config/code with ESP32-S3 & STM32 Blue Pill.  
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white)  
-⭐ Starred
-
-**[symptoseek_backend](https://github.com/siddik-official/symptoseek_backend)**  
-Backend for "symptoseek" project: AI chatbot recommends doctors.  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+**[ai-mock-interview](https://github.com/FARDIN98/ai-mock-interview)**  
+AI mock interview website designed to prepare you for the real world interview.  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)  
-⭐ Starred
+⭐ Public
+
+**[converso](https://github.com/FARDIN98/converso)**  
+AI Powered LMS SAAS app with robust feature.  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)  
+⭐ Public
+
+**[resumind](https://github.com/FARDIN98/resumind)**  
+Resume builder application with modern UI.  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)  
+⭐ Public | [Live Demo](https://resumind-delta.vercel.app)
 
 ---
 
 ### 🌐 Let’s Connect & Create
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/msddik/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/abubakarsid1999" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
-  <a href="https://www.facebook.com/abubakar.sid2/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_abu_bakar_siddik/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/fardin-ahmed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/fardin.ahmed.54943/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  
 </p>
 
 ---
