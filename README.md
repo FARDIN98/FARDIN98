@@ -74,7 +74,7 @@ Resume builder application with modern UI.
 
 ---
 
-### 🌐 Let’s Connect & Create
+### 🌐 Let’s Connect 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fardin-ahmed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
