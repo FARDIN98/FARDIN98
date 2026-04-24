@@ -34,7 +34,7 @@
 
 - 🔭 Web & App developer passionate about crafting beautiful, scalable applications
 - 🌐 Exploring **DevOps**, **Supabase**, **Cloud Deployments**
-- 💼 **Software Engineer** at **Norton-Gauss**, **Munchies**, **Stealth Intelligence**
+- 💼 **Software Engineer** at **Munchies**, **Stealth Intelligence**
 - 🧠 Believer in **"learning by building"** — break stuff, fix stuff, learn fast!
 - 🧩 Enjoy tech meetups, hackathons & turning ideas into fun projects
 - 💬 Life Motto: _"Explore 🔥 and Explode 💣 with knowledge"_
